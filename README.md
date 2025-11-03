@@ -128,9 +128,9 @@ This project is licensed under the MIT License.
 
 ## Contact 📧
 
-Your Name - [@yourhandle](https://twitter.com/yourhandle)
+Your Name - [@ManKhauf84981](https://x.com/ManKhauf84981)
 
-Project Link: [https://github.com/YOUR_USERNAME/ar-interior-designer](https://github.com/YOUR_USERNAME/ar-interior-designer)
+Project Link: [https://github.com/GEEGEEGOOGOO/ar-interior-designer](https://github.com/GEEGEEGOOGOO/ar-interior-designer)
 
 ---
 
