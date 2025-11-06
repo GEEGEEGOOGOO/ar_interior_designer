@@ -83,10 +83,6 @@ lib/
    - ➖ Scale down
    - 🗑️ Delete object
 
-## Development Time ⏱️
-
-Built in approximately 5-6 hours as an intermediate Flutter + AR project.
-
 ## Key Challenges Solved 🎓
 
 1. ✅ ARCore integration with modern Flutter
